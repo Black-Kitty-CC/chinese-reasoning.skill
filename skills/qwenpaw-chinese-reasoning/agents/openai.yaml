@@ -1,0 +1,4 @@
+interface:
+  display_name: "QwenPaw Chinese Reasoning"
+  short_description: "Apply Chinese visible reasoning guardrails to QwenPaw agents."
+  default_prompt: "Apply Chinese visible reasoning guardrails to the specified QwenPaw agent."
